@@ -905,11 +905,11 @@ terminalInput.addEventListener(
             );
 
             addTerminalLine(
-                "Check the Contact section of the portfolio."
+                "Phone no: 9769762320"
             );
 
             addTerminalLine(
-                "You can also use the Email Assistant."
+                "Email:bruhhnah73@gmail.com"
             );
 
         }
